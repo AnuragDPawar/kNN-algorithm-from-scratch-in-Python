@@ -34,7 +34,8 @@ Code consists of four functions, they are as follow:
 2. `get_euclidean_distance()`
 	- As kNN is a distance based algorithm, this function is used to calculate the distance between two dataset points.
 	- It takes input of two points and the lenghth of the test dataset.
-	- Formula: ![image](https://user-images.githubusercontent.com/43094149/169631400-585b84e2-44a5-49d8-9283-59d99dbc0d59.png)
+	- Formula: ![image](https://user-images.githubusercontent.com/43094149/169632277-3c8b1ea7-762f-4c07-a29d-876b756d26df.png)
+
 
 3. `get_votes()`
 	- After the distance is calculated then we need to find the 'k' nearest points to categorize the input point.
