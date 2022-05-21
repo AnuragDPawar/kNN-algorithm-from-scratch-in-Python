@@ -1,7 +1,7 @@
 # kNN algorithm implemention from scratch in python
-# Description of assignment
 
 **Goal: To implement the kNN algorith from scratch.**
+
 In this assignment, kNN algorithm is implemented without using any library function. The code is tested on the iris.data dataset.
 
 **Purpose**
